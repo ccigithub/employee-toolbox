@@ -1,0 +1,23 @@
+@media screen and (max-width: 1999px){
+    .news-header{
+      font-size: 10px;
+    }
+  }
+  
+  @media screen and (max-width: 991px){
+    .core-values{
+      font-size: 10px;
+    }
+  }
+  
+  @media screen and (max-width: 767px){
+    .core-values{
+      font-size: 7px;
+    }
+  }
+  
+  @media screen and (max-width: 420px){
+    .core-values{
+      font-size: 10px;
+    }
+  }
